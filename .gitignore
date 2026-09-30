@@ -1,0 +1,24 @@
+# Gradle / Android build output
+.gradle/
+build/
+app/build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Local machine config
+local.properties
+
+# IDE
+.idea/
+*.iml
+*.hprof
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Kotlin
+.kotlin/
+
+# ZCode local workspace
+.zcode/
